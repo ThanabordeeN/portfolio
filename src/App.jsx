@@ -214,7 +214,7 @@ const Portfolio = () => {
 
       <footer className="bg-gray-800 text-white py-6">
         <div className="max-w-5xl mx-auto px-4 text-center">
-          <p>&copy; 2024 Thanabordee Namungkhun. All rights reserved.</p>
+          <p>&copy; 2024 Thanabordee Nammungkhun. All rights reserved.</p>
         </div>
       </footer>
     </div>
