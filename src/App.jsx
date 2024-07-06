@@ -133,7 +133,7 @@ const Portfolio = () => {
       <main className="pt-24 pb-12 px-4">
         <div className="max-w-5xl mx-auto">
           <section className="text-center mb-20" id="Home">
-            <h1 className="text-5xl font-bold mb-4">Thanabordee Namungkhun</h1>
+            <h1 className="text-5xl font-bold mb-4">Thanabordee Nammungkhun</h1>
             <p className="text-xl text-gray-600 mb-8">AI Engineer & LLM Specialist</p>
             <div className="flex justify-center space-x-4">
               <a href="https://github.com/ThanabordeeN" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="text-gray-600 hover:text-gray-900 transition-colors">
